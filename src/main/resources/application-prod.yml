@@ -1,0 +1,6 @@
+author:
+    name: libing
+    age: ${random.int(3)}
+    version: 0.0.1
+server:
+    port: 8081
